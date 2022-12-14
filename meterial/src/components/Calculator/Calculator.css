@@ -1,0 +1,9 @@
+.container{
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+}
+.nums{
+    display: grid;
+    grid-template-columns: repeat(4,100px);
+}
